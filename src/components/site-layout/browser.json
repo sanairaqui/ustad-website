@@ -1,0 +1,18 @@
+{
+    "dependencies":[
+        {"url":"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css","type":"css"},
+        {"url":"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js","type":"js"},
+        {"url":"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js","type":"js"},
+        {"url":"https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js","type":"js"},
+        {"path":"./font-awesome.min.css" ,"type":"css"},
+       {"path":"./main.css" ,"type":"css"},
+       {"path":"./noscript.css" ,"type":"css"},
+       {"path":"./js/breakpoints.min.js" , "type":"js"},
+       {"path":"./js/browser.min.js" , "type":"js"},
+       {"path":"./js/jquery.min.js" , "type":"js"},
+       {"path":"./js/jquery.scrollex.min.js" , "type":"js"},
+       {"path":"./js/jquery.scrolly.min.js" , "type":"js"},
+       {"path":"./js/main.js" , "type":"js"},
+       {"path":"./js/util.js" , "type":"js"}
+    ]
+}
