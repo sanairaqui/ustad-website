@@ -13,6 +13,9 @@
        {"path":"./assets/js/jquery.scrollex.min.js" , "type":"js"},
        {"path":"./assets/js/jquery.scrolly.min.js" , "type":"js"},
        {"path":"./assets/js/main.js" , "type":"js"},
-       {"path":"./assets/js/util.js" , "type":"js"}
+       {"path":"./assets/js/util.js" , "type":"js"},
+       {"path":"./resume.css" , "type":"css"},
+       {"path":"./fontawesome-free/css/all.css" , "type":"css"},
+       {"path":"./js/resume.js" , "type":"js"}
     ]
 }
